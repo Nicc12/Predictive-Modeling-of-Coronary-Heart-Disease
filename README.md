@@ -4,3 +4,15 @@ I developed a heart disease prediction pipeline where I performed model selectio
 ### Tech & Methods: ⚙️
 
 ![Static Badge](https://img.shields.io/badge/Python%20-%20blue?style=for-the-badge&logo=Python&color=gold)
+
+* Python/Juypter Notebook:
+  * Pandas
+  * Numpy
+  * Seaborn
+  * Matplotlib
+  * Sklearn
+  * Statsmodels
+* Multiple Logistic Regression
+* Random Forest
+* Decision Tree
+* Prediction
