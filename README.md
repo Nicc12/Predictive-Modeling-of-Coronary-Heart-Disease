@@ -19,4 +19,6 @@ I developed a heart disease prediction pipeline where I performed model selectio
 ---
 ### Repository Information 📄:
 
-This respository includes 
+This respository includes two files: README.md and Predictive Modeling of Coronary Heart Disease.ipynb
+* READ.md is what you are reading now and explains information associated with the project.
+* Predictive Modeling of Coronary Heart Disease.ipynb is a Juypter Notebook containing all python code utilized to conduct the Analysis.
