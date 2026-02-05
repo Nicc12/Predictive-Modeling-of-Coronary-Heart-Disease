@@ -1,0 +1,15 @@
+# 1. Ignore large data files that skew stats
+*.csv linguist-vendored
+*.json linguist-vendored
+*.xlsx linguist-vendored
+
+# 2. Ignore HTML exports from Jupyter or R-Studio
+*.html linguist-vendored
+
+# 3. Ensure Python files are counted correctly
+*.py linguist-language=Python
+
+# 4. Handle Jupyter Notebooks 
+# (Keep this if you want .ipynb to count as Python, 
+# otherwise use 'linguist-vendored' to hide them)
+*.ipynb linguist-language=Python
