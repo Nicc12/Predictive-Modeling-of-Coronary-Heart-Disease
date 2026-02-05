@@ -3,7 +3,7 @@ I developed a heart disease prediction pipeline where I performed model selectio
 
 ### Tech & Methods: ⚙️
 
-![Static Badge](https://img.shields.io/badge/Python%20-%20blue?style=for-the-badge&logo=Python&color=gold)
+![Static Badge](https://img.shields.io/badge/Python%20-%20blue?style=for-the-badge&logo=Python&color=gold) ![Static Badge](https://img.shields.io/badge/Machine%20Learning%20-%20blue?style=for-the-badge)
 
 * Python/Juypter Notebook:
   * Pandas
