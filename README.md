@@ -5,7 +5,7 @@ I developed a heart disease prediction pipeline where I performed model selectio
 
 ![Static Badge](https://img.shields.io/badge/Python%20-%20blue?style=for-the-badge&logo=Python&color=gold) ![Static Badge](https://img.shields.io/badge/Machine%20Learning%20-%20blue?style=for-the-badge)
 
-* Python/Juypter Notebook:
+* Python/Jupyter Notebook:
   * Pandas
   * Numpy
   * Seaborn
@@ -19,6 +19,8 @@ I developed a heart disease prediction pipeline where I performed model selectio
 ---
 ### Repository Information 📄:
 
-This respository includes two files: README.md and Predictive Modeling of Coronary Heart Disease.ipynb
+This repository includes two files: README.md and Predictive Modeling of Coronary Heart Disease.ipynb
 * READ.md is what you are reading now and explains information associated with the project.
-* Predictive Modeling of Coronary Heart Disease.ipynb is a Juypter Notebook containing all python code utilized to conduct the Analysis.
+* Predictive Modeling of Coronary Heart Disease.ipynb is a Jupyter Notebook containing all Python code utilized to conduct the Analysis.
+
+https://archive.ics.uci.edu/dataset/45/heart+disease
