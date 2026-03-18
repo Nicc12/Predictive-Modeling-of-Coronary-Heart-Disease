@@ -197,6 +197,6 @@ if st.button("Analyze Risk"):
 
     # 3. Final Interpretative Summary
     if result > 0.5:
-        st.error(f"**High Risk Identified ({result:.1%}):** Patient metrics (particularly {'Cholesterol' if chol > 246 else 'Blood Pressure'}) are above the dataset average.")
+        st.error(f"**High Risk Identified ({result:.1%}):**.")
     else:
-        st.success(f"**Low Risk Identified ({result:.1%}):** Patient metrics are generally within or below the typical ranges for this cohort.")
+        st.success(f"**Low Risk Identified ({result:.1%}):**.")
