@@ -1,6 +1,8 @@
 # Predictive Modeling of Coronary Heart Disease 💓
 I engineered a heart disease prediction application where I performed model selection across three architectures. I prioritized Logistic Regression due to its superior performance in minimizing False Negatives and its statistical interpretability (p&lt;0.01). Using Streamlit, I turned the predictive model into an interactive application that doctors can use to support decision-making. 
 
+View on Streamlit: [link](https://share.streamlit.io/user/nicc12)
+
 ### Tech & Methods ⚙️:
 
 ![Static Badge](https://img.shields.io/badge/Python%20-%20blue?style=for-the-badge&logo=Python&color=gold) ![Static Badge](https://img.shields.io/badge/Machine%20Learning%20-%20blue?style=for-the-badge)
