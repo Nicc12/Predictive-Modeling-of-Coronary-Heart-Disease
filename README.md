@@ -23,16 +23,8 @@ The Impact: 88% Accurate heart disease calculator application that can assist wi
 Insight 1: Identified Major Vessels, Chest Pain, and Sex as key predictors of heart diseases.
 Insight 2: Caveats with omitted variable bias exist. Supported by Gary D. Friedman in a 1975 study, a correlation exists between Cigarette Smoking and Chest Pain, leading to variables that are accounted for. Further data collection should identify habitual information to achieve higher accuracy.
 
-### Repository Information 📄:
-
-This repository includes two files: README.md, Predictive Modeling of Coronary Heart Disease.ipynb, and app.py
-* READ.md is what you are reading now and explains information associated with the project.
-* Predictive Modeling of Coronary Heart Disease.ipynb is a Jupyter Notebook containing all Python code utilized to conduct the Analysis.
-* app.py is an interactive patient calculator that calculates a patient's heart disease risk.
-View on Streamlit: [link](https://share.streamlit.io/user/nicc12)
----
-### Data 🗃️ 
-
-Patient data came from the University of California Irvine
-
-https://archive.ics.uci.edu/dataset/45/heart+disease
+### 📂 Repository Structure
+Data: [UCI](https://archive.ics.uci.edu/dataset/45/heart+disease)
+Notebooks: Predictive Modeling of Coronary Heart Disease.ipynb
+src: app.py
+final products: [APP](https://share.streamlit.io/user/nicc12)
