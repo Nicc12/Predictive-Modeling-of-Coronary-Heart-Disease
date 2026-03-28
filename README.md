@@ -19,6 +19,10 @@ The Impact: 88% Accurate heart disease calculator application that can assist wi
 * Analysis/Modeling: Multiple Logistic Regression and Random Forest machine learning methods were implemented to predict likihood of Coronary Heart Disease.
 * Delivery: Streamlit was used to develop an interactive predictor application that takes in customer data to then output likinhood of heart disease and a comparative dashboard.
 
+### 📊 Key Insights & Outcomes
+Insight 1: Identified Major Vessels, Chest Pain, and Sex as key predictors of heart diseases.
+Insight 2: Caveats with omitted variable bias exist. Supported by Gary D. Friedman in a 1975 study, a correlation exists between Cigarette Smoking and Chest Pain, leading to variables that are accounted for. Further data collection should identify habitual information to achieve higher accuracy.
+
 ### Repository Information 📄:
 
 This repository includes two files: README.md, Predictive Modeling of Coronary Heart Disease.ipynb, and app.py
