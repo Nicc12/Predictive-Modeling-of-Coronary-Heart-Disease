@@ -2,7 +2,8 @@
 
 ### 📋 Overview
 
-I engineered a heart disease prediction application where I performed model selection across three architectures. I prioritized Logistic Regression due to its superior performance in minimizing False Negatives and its statistical interpretability (p&lt;0.01). Using Streamlit, I turned the predictive model into an interactive application that doctors can use to support decision-making. 
+The Goal: Built a fully-functioning heart disease calculator that predicts a patient's likelihood of having heart disease
+The Impact: 88% Accurate heart disease calculator application that can assist with diagnosis. 
 
 ### Tech & Methods ⚙️:
 
