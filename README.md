@@ -24,7 +24,11 @@ Insight 1: Identified Major Vessels, Chest Pain, and Sex as key predictors of he
 Insight 2: Caveats with omitted variable bias exist. Supported by Gary D. Friedman in a 1975 study, a correlation exists between Cigarette Smoking and Chest Pain, leading to variables that are accounted for. Further data collection should identify habitual information to achieve higher accuracy.
 
 ### 📂 Repository Structure
-Data: [UCI](https://archive.ics.uci.edu/dataset/45/heart+disease)
-Notebooks: Predictive Modeling of Coronary Heart Disease.ipynb
-src: app.py
-final products: [APP](https://share.streamlit.io/user/nicc12)
+
+    Data: [UCI](https://archive.ics.uci.edu/dataset/45/heart+disease)
+
+    Notebooks: Predictive Modeling of Coronary Heart Disease.ipynb
+
+    src: app.py
+
+    final products: [APP](https://share.streamlit.io/user/nicc12)
