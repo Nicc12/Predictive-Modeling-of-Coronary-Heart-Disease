@@ -25,10 +25,7 @@ Insight 2: Caveats with omitted variable bias exist. Supported by Gary D. Friedm
 
 ### 📂 Repository Structure
 
-    Data: [UCI](https://archive.ics.uci.edu/dataset/45/heart+disease)
-
-    Notebooks: Predictive Modeling of Coronary Heart Disease.ipynb
-
-    src: app.py
-
-    final products: [APP](https://share.streamlit.io/user/nicc12)
+* Data: [UCI](https://archive.ics.uci.edu/dataset/45/heart+disease)
+* Notebooks: Predictive Modeling of Coronary Heart Disease.ipynb
+* src: app.py
+* final products: [APP](https://share.streamlit.io/user/nicc12)
