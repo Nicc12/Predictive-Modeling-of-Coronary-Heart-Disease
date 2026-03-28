@@ -10,7 +10,7 @@ I engineered a heart disease prediction application where I performed model sele
 * Languages/Tools: Python, Visual Studio Code, Streamlit
 * Libraries: Streamlit, ucimlrepo, pandas, seaborn, matplotlib, sklearn, statsmodels, numpy
 * Concepts: Multiple Logistic Regression, Random Forest, Decision Tree, Data Pipelines
----
+
 ### Repository Information 📄:
 
 This repository includes two files: README.md, Predictive Modeling of Coronary Heart Disease.ipynb, and app.py
