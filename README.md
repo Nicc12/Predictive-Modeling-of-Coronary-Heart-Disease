@@ -1,4 +1,4 @@
-# Predictive Modeling of Coronary Heart Disease 💓
+# [Heart Disease Calculator Application 💓]: Predicting patient heart disease risk with Machine Learning
 
 ### 📋 Overview
 
