@@ -14,13 +14,10 @@ The Impact: 88% Accurate heart disease calculator application that can assist wi
   
 ### 🗺️ Project Architecture
 
-Data Ingestion: The data was collected by the University of California, Irvine, and stored in a UCI repository. The data was imported directly into a Jupyter Notebook using the ucimlrepo Python package. 
-
-Processing/Storage: The data was cleaned in Python. 
-
-Analysis/Modeling: Multiple Logistic Regression and Random Forest machine learning methods were implemented to predict likihood of Coronary Heart Disease.
-
-Delivery: Streamlit was used to develop an interactive predictor application that takes in customer data to then output likinhood of heart disease and a comparative dashboard.
+* Data Ingestion: The data was collected by the University of California, Irvine, and stored in a UCI repository. The data was imported directly into a Jupyter Notebook using the ucimlrepo Python package. 
+* Processing/Storage: The data was cleaned in Python. 
+* Analysis/Modeling: Multiple Logistic Regression and Random Forest machine learning methods were implemented to predict likihood of Coronary Heart Disease.
+* Delivery: Streamlit was used to develop an interactive predictor application that takes in customer data to then output likinhood of heart disease and a comparative dashboard.
 
 ### Repository Information 📄:
 
