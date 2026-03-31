@@ -3,6 +3,7 @@
 ### 📋 Overview
 
 The Goal: Built a fully-functioning heart disease calculator that predicts a patient's likelihood of having heart disease
+
 The Impact: 88% Accurate heart disease calculator application that can assist with diagnosis. 
 
 ### Tech & Methods ⚙️:
